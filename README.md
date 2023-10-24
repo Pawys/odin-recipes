@@ -1,7 +1,7 @@
 # Odin recipes
 This is the very first project from the (amazing) [The Odin Project curriculum](https://www.theodinproject.com/).
 It's an incredibly basic page featuring basic recipes and pictures of them.
-![Screenshot](screenshots/screenshot.png)
+![Screenshot](screenshots/odin-recepies.png)
 # Skills
 ### After completing it, I gained:
 Basic HTML knowledge (Using Lists, adding images, Usage of headers and paragraphs.)
