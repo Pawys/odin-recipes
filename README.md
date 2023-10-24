@@ -1,6 +1,14 @@
-# odin-recipes
-I am making an odin recipes site
-This will demonstrate my limited knowlege of html
-I dont want to right anything here they are making me do it 
-SEND HELPPPP
-
+# Odin recipes
+This is the very first project from the (amazing) [The Odin Project curriculum](https://www.theodinproject.com/).
+It's an incredibly basic page featuring basic recipes and pictures of them.
+![Screenshot](screenshots/screenshot.png)
+# Skills
+### After completing it, I gained:
+Basic HTML knowledge (Using Lists, adding images, Usage of headers and paragraphs.)
+Basic CSS knowledge (Basic styling, Changing the size of the text, Changing the color of the text and background)
+# Tech
+### This project was made with:
+HTML
+CSS
+# Live Preview
+See the page in the [Live Preview](https://pawys.github.io/odin-recipes/)
